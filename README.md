@@ -1,5 +1,8 @@
 # icebreaker-altcase
-An alternative case for the iCEBreaker FPGA by @esden based on @pimdegroot's design.
+An alternative case for the [iCEBreaker FPGA](https://www.crowdsupply.com/1bitsquared/icebreaker-fpga) by [@esden](https://github.com/esden) based on [@pimdegroot](https://github.com/pimdegroot)'s design.
+
+![Top](ICE_Top.jpg)
+![Bottom](ICE_Bottom.jpg)
 
 # Changes
 - Converted all mesh geometry to a set of polylines and a polysurface NURBS model.
@@ -11,6 +14,9 @@ An alternative case for the iCEBreaker FPGA by @esden based on @pimdegroot's des
 - Added a 1BitSquared logo on the top part of the case.
 - Added a diagonal hatch pattern on the top and bottom parts of the case.
 - Added 0.5 mm clearance for the for M3 nuts on the bottom of the case.
+
+![Diff](ICE_Diff.jpg)
+Red = Original Case, Green = Alternative Case
 
 # License
 As the orinial design this case was based on, this case is shared as CC-BY-SA 4.0.
