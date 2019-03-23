@@ -13,7 +13,8 @@ An alternative case for the [iCEBreaker FPGA](https://www.crowdsupply.com/1bitsq
 - Added fillets in various corners to remove sharp edges.
 - Added a 1BitSquared logo on the top part of the case.
 - Added a diagonal hatch pattern on the top and bottom parts of the case.
-- Added 0.5 mm clearance for the for M3 nuts on the bottom of the case.
+- Added 0.3 mm clearance for the for M3 nuts on the bottom of the case.
+- Added supports on the bottom of the case that need to be removed after printing. 
 
 ![Diff](ICE_Diff.jpg)
 Red = Original Case, Green = Alternative Case
