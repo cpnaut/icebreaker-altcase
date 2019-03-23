@@ -20,5 +20,5 @@ An alternative case for the [iCEBreaker FPGA](https://www.crowdsupply.com/1bitsq
 Red = Original Case, Green = Alternative Case
 
 # License
-As the orinial design this case was based on, this case is shared as CC-BY-SA 4.0.
+As the orinial design it was based on, this case is shared as CC-BY-SA 4.0.
 All printing tests were performed on a Creality Ender3, all NURBS modeling is done with Rhino 5.
